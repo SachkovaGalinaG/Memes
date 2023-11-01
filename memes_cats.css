@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Montserrat';
+  src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+  /* Дополнительные свойства шрифта (необязательно) */
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
